@@ -40,15 +40,6 @@
       </div>
     </div>
     <Whats></Whats>
-    <div v-if="showPopup" class="popup-container" @click="closePopup">
-      <div class="popup-content">
-        <img
-          :src="popupImage"
-          alt="Pop-up Image"
-          class="w-full h-full object-cover rounded"
-        />
-      </div>
-    </div>
   </div>
 </template>
 

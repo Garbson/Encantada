@@ -44,7 +44,7 @@
   </script>
   
   <style>
-  @media (max-width: 532px) {
+  @media (max-width: 800px) {
     .centralizar {
       justify-content: center;
       gap: 2.15rem;
